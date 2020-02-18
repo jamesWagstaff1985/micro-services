@@ -1,8 +1,5 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-#Git config repo
-/git-localconfig-repo
-
 # compiled output
 /dist
 /public_html
